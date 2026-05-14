@@ -83,18 +83,4 @@ public class IngresoSentencias {
         }
     }
 
-    public static void main(String[] args) {
-        // 1. Prueba rápida de una sola línea
-        System.out.println("=== PRUEBA MANUAL DE UNA LÍNEA ===");
-        String sentenciaPrueba = "int 1numero = 5 ; float pi = 3.14 ;";
-        analizarLinea(sentenciaPrueba);
-
-        // 2. Prueba de lectura de archivo
-        System.out.println("=== PRUEBA DE LECTURA DE ARCHIVO ===");
-        // Ajusta el nombre de tu archivo TXT aquí. 
-        // Si ejecutas el código desde la raíz del proyecto, esta ruta apuntará a la carpeta que mencionaste.
-        String rutaArchivo = "src/analizador/codigo.txt"; 
-        
-        leerArchivo(rutaArchivo);
-    }
 }
