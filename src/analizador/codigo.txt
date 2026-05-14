@@ -1,0 +1,20 @@
+int a == b;
+if (x === 10)
+y +++ z;
+float 1.2.3;
+int @var;
+double  d = 1e;
+if (a !=! b)
+long | = 0xG1A
+byte b = 09;
+x = y + -z;
+float num = 2.77e-f
+case: goto;
+float F = 1E+5f;
+while (true) {}
+int $var = 1;
+for (;;)
+num *=* 5;
+System.out..print();
+float f = 1.0.e1;
+switch(val) {}
